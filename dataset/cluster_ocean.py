@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read data
-df = pd.read_csv("path/to/labels.csv")
+df = pd.read_csv("tipi_labels.csv")
 
 # Define TIPI mapping
 pair_map = {

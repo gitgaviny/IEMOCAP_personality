@@ -1,0 +1,36 @@
+=== Overall ===
+Extraversion vs valence: r=0.350, p=1.523e-287, n=10039
+Extraversion vs activation: r=0.315, p=1.144e-230, n=10039
+Agreeableness vs valence: r=0.508, p=0.000e+00, n=10039
+Agreeableness vs activation: r=-0.114, p=1.392e-30, n=10039
+Conscientiousness vs valence: r=0.327, p=5.244e-249, n=10039
+Conscientiousness vs activation: r=-0.214, p=1.110e-104, n=10039
+Neuroticism vs valence: r=-0.447, p=0.000e+00, n=10039
+Neuroticism vs activation: r=0.189, p=5.878e-81, n=10039
+Openness vs valence: r=0.527, p=0.000e+00, n=10039
+Openness vs activation: r=0.088, p=7.279e-19, n=10039
+
+=== Male ===
+Extraversion vs valence: r=0.348, p=1.920e-149, n=5239
+Extraversion vs activation: r=0.287, p=7.571e-100, n=5239
+Agreeableness vs valence: r=0.463, p=8.929e-277, n=5239
+Agreeableness vs activation: r=-0.095, p=5.157e-12, n=5239
+Conscientiousness vs valence: r=0.283, p=5.262e-97, n=5239
+Conscientiousness vs activation: r=-0.189, p=4.114e-43, n=5239
+Neuroticism vs valence: r=-0.390, p=2.400e-190, n=5239
+Neuroticism vs activation: r=0.198, p=2.188e-47, n=5239
+Openness vs valence: r=0.500, p=0.000e+00, n=5239
+Openness vs activation: r=0.092, p=2.475e-11, n=5239
+
+=== Female ===
+Extraversion vs valence: r=0.356, p=3.276e-143, n=4800
+Extraversion vs activation: r=0.343, p=1.278e-132, n=4800
+Agreeableness vs valence: r=0.546, p=0.000e+00, n=4800
+Agreeableness vs activation: r=-0.135, p=7.642e-21, n=4800
+Conscientiousness vs valence: r=0.376, p=1.032e-160, n=4800
+Conscientiousness vs activation: r=-0.242, p=3.999e-65, n=4800
+Neuroticism vs valence: r=-0.498, p=1.451e-299, n=4800
+Neuroticism vs activation: r=0.187, p=3.237e-39, n=4800
+Openness vs valence: r=0.550, p=0.000e+00, n=4800
+Openness vs activation: r=0.084, p=6.590e-09, n=4800
+

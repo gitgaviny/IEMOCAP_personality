@@ -1,0 +1,10 @@
+PCC between Extraversion and valence: 0.350, p-value: 1.523e-287
+PCC between Extraversion and activation: 0.315, p-value: 1.144e-230
+PCC between Agreeableness and valence: 0.508, p-value: 0.000e+00
+PCC between Agreeableness and activation: -0.114, p-value: 1.392e-30
+PCC between Conscientiousness and valence: 0.327, p-value: 5.244e-249
+PCC between Conscientiousness and activation: -0.214, p-value: 1.110e-104
+PCC between Neuroticism and valence: -0.447, p-value: 0.000e+00
+PCC between Neuroticism and activation: 0.189, p-value: 5.878e-81
+PCC between Openness and valence: 0.527, p-value: 0.000e+00
+PCC between Openness and activation: 0.088, p-value: 7.279e-19
