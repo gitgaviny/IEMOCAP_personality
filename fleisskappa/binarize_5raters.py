@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import pandas as pd
 
-OCEAN_CSV = "/lustre/users/gao/IEMOCAP_personality/dataset/ocean.csv"  # First file: contains EX, AG, CO, NE, OP
+OCEAN_CSV = "path/to/ocean.csv"  # First file: contains EX, AG, CO, NE, OP
 RATERS_CSV_IN = "ocean_5raters.csv"   # Second file: contains tipi, rater1-5, etc.
 RATERS_CSV_OUT = "ocean_5raters_bin.csv"   # Output file
 
