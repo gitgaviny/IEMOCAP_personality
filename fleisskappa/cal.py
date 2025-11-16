@@ -3,11 +3,11 @@ import numpy as np
 from statsmodels.stats.inter_rater import fleiss_kappa
 
 # Load the dataset
-file_path = 'path/to/ocean_with_filtered_and_binarized.csv'
+file_path = 'ocean_5raters_bin.csv'
 df = pd.read_csv(file_path)
 
 # Convert all rater columns to numeric, coercing errors to NaN, then drop rows with any NaN values
-rater_columns = ['filtered_r1', 'filtered_r2', 'filtered_r3', 'filtered_r4', 'filtered_r5']
+rater_columns = ['rater1', 'rater2', 'rater3', 'rater4', 'rater5']
 df[rater_columns] = df[rater_columns].apply(pd.to_numeric, errors='coerce')
 
 # Drop rows with NaN values (non-numeric ratings)

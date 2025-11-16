@@ -58,7 +58,6 @@ for g in ['Male', 'Female']:
 
 res_long = pd.concat(results, ignore_index=True)
 
-# ---- export only: human-readable txt ----
 with open('pcc_utterance_level_by_gender.txt', 'w') as f:
     for g in res_long['group'].unique():
         sub = res_long[res_long['group'] == g]
