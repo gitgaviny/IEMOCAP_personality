@@ -88,7 +88,7 @@ Computes **ICC** (e.g., ICC(2,k)) for rater reliability.
 
 ---
 
-## 📊 Correlation Analysis
+## Correlation Analysis
 
 Scripts in:
 
