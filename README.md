@@ -103,7 +103,7 @@ Compute PCC between **Big Five traits** and **arousal/valence**, with optional g
 # Citation
 
 If you find this dataset helpful, please cite the following paper:
-
+```bibtex
 @article{gao2025bridging,
   author  = {Gao, Yuan and Fu, Yahui and Shi, Hao and Chu, Chenhui},
   title   = {Bridging Speech Emotion Recognition and Personality: Dataset and Temporal Interaction Condition Network},
