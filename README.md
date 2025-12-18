@@ -100,4 +100,15 @@ Compute PCC between **Big Five traits** and **arousal/valence**, with optional g
 
 
 
-These resources allow rigorous study of personality and affective behavior using the IEMOCAP dataset.
+# Citation
+
+If you find this dataset helpful, please cite the following paper:
+
+@article{gao2025bridging,
+  author  = {Gao, Yuan and Fu, Yahui and Shi, Hao and Chu, Chenhui},
+  title   = {Bridging Speech Emotion Recognition and Personality: Dataset and Temporal Interaction Condition Network},
+  journal = {IEEE Transactions on Affective Computing},
+  year    = {2025},
+  doi     = {10.1109/TAFFC.2025.3637088},
+  note    = {Early Access}
+}
