@@ -105,10 +105,9 @@ Compute PCC between **Big Five traits** and **arousal/valence**, with optional g
 If you find this dataset helpful, please cite the following paper:
 ```bibtex
 @article{gao2025bridging,
-  author  = {Gao, Yuan and Fu, Yahui and Shi, Hao and Chu, Chenhui},
-  title   = {Bridging Speech Emotion Recognition and Personality: Dataset and Temporal Interaction Condition Network},
-  journal = {IEEE Transactions on Affective Computing},
-  year    = {2025},
-  doi     = {10.1109/TAFFC.2025.3637088},
-  note    = {Early Access}
+  title={Bridging Speech Emotion Recognition and Personality: Dataset and Temporal Interaction Condition Network},
+  author={Gao, Yuan and Shi, Hao and Fu, Yahui and Chu, Chenhui and Kawahara, Tatsuya},
+  journal={IEEE Transactions on Affective Computing},
+  year={2025},
+  publisher={IEEE}
 }
